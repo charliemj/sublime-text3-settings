@@ -1,0 +1,17 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"HTML Boilerplate",
+		"Vintage"
+	],
+	"show_errors_inline": false,
+	"show_full_path": true,
+	"spell_check": true,
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_tab_rounded": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
